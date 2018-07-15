@@ -2,7 +2,7 @@
 
 通过GAN（生成对抗模型）生成特定的MNIST手写体
 
-![](E:\AI\新建文件夹\MNIST_GAN\2913.png)
+![](https://raw.githubusercontent.com/crd57/MNIST-GAN/master/2913.png)
 
 ## TODO
 
